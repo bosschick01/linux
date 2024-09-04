@@ -1,0 +1,47 @@
+
+#
+# DNS Server Alias
+#
+alias named.conf='vi /etc/named.conf'
+alias named.rfc1912.zones='vi /etc/named.rfc1912.zones' 
+alias DNS='cd /var/named'
+alias dnslog='tail -f /var/log/messages'
+
+
+
+#
+# DNS Server Alias
+#
+alias named.conf='vi /etc/named.conf'
+alias named.rfc1912.zones='vi /etc/named.rfc1912.zones' 
+alias DNS='cd /var/named'
+alias dnslog='tail -f /var/log/messages'
+
+#
+# DNS Alias
+#
+alias named.conf='vi /etc/named.conf'
+alias named.rfc1912.zones='vi /etc/named.rfc1912.zones' 
+alias DNS='cd /var/named'
+alias dnslog='tail -f /var/log/messages'
+
+
+
+#
+# DNS Alias
+#
+alias named.conf='vi /etc/named.conf'
+alias named.rfc1912.zones='vi /etc/named.rfc1912.zones' 
+alias DNS='cd /var/named'
+alias dnslog='tail -f /var/log/messages'
+
+#
+# FTP Server Alias
+#
+alias FTP='cd /etc/vsftpd'
+alias vsftpd.conf='vi /etc/vsftpd/vsftpd.conf'
+alias ftpusers='vi /etc/vsftpd/ftpusers'
+alias user_list='vi /etc/vsftpd/user_list'
+alias slog='tail -f /var/log/secure'
+alias flog='tail -f /var/log/xferlog'
+
